@@ -44,11 +44,8 @@ Este repositório contém o projeto de aprendizado de máquina desenvolvido para
 
 ## Estrutura de Pastas
 
-- `/data`: Contém os datasets originais e processados.
-- `/notebooks`: Inclui os notebooks Jupyter com o código fonte.
-- `/models`: Armazena os modelos treinados e serializados.
-- `/images`: Guarda as figuras e visualizações geradas.
-- `/reports`: Documentação e relatórios finais.
+- `regressao` - modelos de regressão linear e polinomial
+- . - demais arquivos e o notebook de análise exploratória dos dados
 
 ## Contribuições
 
