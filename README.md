@@ -1,73 +1,28 @@
-# Projeto de Aprendizado de Máquina para a Disciplina de Inteligência Artificial
+# 🤖 Projeto de Aprendizado de Máquina (Inteligência Artificial)
 
-Este repositório contém o projeto de aprendizado de máquina desenvolvido para a aula de Inteligência Artificial. O objetivo do projeto é aplicar técnicas de machine learning para resolver um problema específico, demonstrando o entendimento dos conceitos abordados em sala.
+<div align="center">
 
-## Conteúdo do Repositório
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ed1rac/projeto-ML/blob/main/Aula%20-%20an%C3%A1lise%20explorat%C3%B3ria.ipynb)
 
-- **Datasets**: Conjunto de dados utilizados para treinamento e teste dos modelos.
-- **Pré-processamento**: Scripts para limpeza, tratamento e preparação dos dados.
-- **Modelos**: Implementação de algoritmos de aprendizado de máquina, como regressão, classificação, clustering, entre outros.
-- **Avaliação**: Análises de desempenho dos modelos utilizando métricas apropriadas.
-- **Visualizações**: Gráficos e plots para ilustrar os resultados obtidos.
-- **Relatório**: Documentação detalhada do projeto, incluindo metodologia, resultados e conclusões.
+**Projeto prático de Inteligência Artificial e Ciência de Dados: análise exploratória, tratamento de dados e modelos preditivos de regressão.**
 
-## Tecnologias Utilizadas
+</div>
 
-- **Linguagem de Programação**: Python 3.x
-- **Bibliotecas Principais**:
-  - NumPy
-  - Pandas
-  - Scikit-learn
-  - Matplotlib
-  - Seaborn
-- **Ambiente de Desenvolvimento**: Jupyter Notebook ou qualquer IDE compatível
+---
 
-## Como Executar o Projeto
+## 📌 Roteiro dos Experimentos
 
-1. **Clonar o Repositório**:
-
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-ML.git
-   ```
-
-2. **Instalar as Dependências**:
-
-   Navegue até o diretório do projeto e instale as bibliotecas necessárias:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Executar os Notebooks**:
-
-   Abra os notebooks na ordem sugerida para reproduzir as etapas do projeto.
-
-## Estrutura de Pastas
-
-- `regressao` - modelos de regressão linear e polinomial
-- . - demais arquivos e o notebook de análise exploratória dos dados
-
-## Contribuições
-
-Este projeto foi desenvolvido como parte da disciplina de Inteligência Artificial e não está aberto para contribuições externas.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## Contato
-
-Para mais informações, entre em contato:
-
-- **Nome**: Edkallenn Lima
-- **E-mail**: edkallennl@unipe.edu.br
-- **Instituição**: Centro Universitário de João Pessoa - Unipê
+1. **Análise Exploratória**: Notebook `Aula - análise exploratória.ipynb` investigando distribuições, correlações e detecção de *outliers*.
+2. **Limpeza e Transformação**: Tratamento de valores ausentes e normalização de atributos numéricos.
+3. **Modelagem Preditiva**: Modelos de regressão linear para previsão de vendas (`vendas.csv`).
 
 ---
 
 ## ☕ Apoie o Projeto (Me Pague um Café / Buy Me a Coffee)
 
-Este projeto é desenvolvido com dedicação e carinho. Se este projeto foi útil para os seus estudos, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
+Este projeto é desenvolvido com dedicação e carinho à disseminação do conhecimento e da tecnologia. Se ele foi útil para os seus estudos, aulas, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
 
 - ☕ **Buy Me a Coffee (Internacional / Cartão / QR Code)**:
   - 👉 **[https://buymeacoffee.com/edkallenn](https://buymeacoffee.com/edkallenn)**
