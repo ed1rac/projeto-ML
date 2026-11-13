@@ -1,0 +1,5 @@
+theme: jekyll-theme-modernist
+title: "🤖 Projeto de Aprendizado de Máquina (Machine Learning)"
+description: "Algoritmos e pipelines de classificação, regressão e redes neurais com Python e Scikit-Learn."
+kramdown:
+  parse_block_html: true
