@@ -1,13 +1,12 @@
 # 🤖 Projeto de Aprendizado de Máquina (Inteligência Artificial)
 
 <div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ed1rac/projeto-ML/blob/main/Aula%20-%20an%C3%A1lise%20explorat%C3%B3ria.ipynb)
-
-**Projeto prático de Inteligência Artificial e Ciência de Dados: análise exploratória, tratamento de dados e modelos preditivos de regressão.**
-
+  <p>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-blue.svg?logo=python" alt="Python"></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?logo=scikit-learn" alt="Scikit-Learn"></a>
+    <a href="https://colab.research.google.com/github/ed1rac/projeto-ML/blob/main/Aula%20-%20an%C3%A1lise%20explorat%C3%B3ria.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+  </p>
+  <p><strong>Projeto prático de Inteligência Artificial e Ciência de Dados: análise exploratória, tratamento de dados e modelos preditivos de regressão.</strong></p>
 </div>
 
 ---
